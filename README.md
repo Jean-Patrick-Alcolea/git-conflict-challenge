@@ -1,1 +1,1 @@
-# git-conflict-challenge-local
+# git-conflict-challenge-distant2
